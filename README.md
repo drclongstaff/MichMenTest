@@ -1,3 +1,6 @@
+---
+output: html_document
+---
 # MichMenTest
 Trial MichMen repository
 The project has been clonend to RStudio
